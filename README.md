@@ -1,2 +1,1 @@
-"# FocusFlow-Productivity-Website" 
-"# FocusFlow-Productivity-Website" 
+FocusFlow is a responsive product landing page built with HTML5 and CSS3 featuring a fixed navbar, hero section, feature cards, and testimonials. I learned Flexbox, Grid layouts and media queries for responsiveness. The main challenge was structuring nested flex containers for the card grid, solved using flex-direction and gap properties.
